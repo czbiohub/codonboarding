@@ -19,3 +19,7 @@ Use this to: get started using commandline in Terminal on MAC OS
 * `git checkout -b branchname` will make a new branch
 
 * `git status` will show history of project. Shows untracked files.
+
+* `git add filename` will update a file to the branch that is not yet committed
+
+* `git commit -m "notes about what you did"` 
