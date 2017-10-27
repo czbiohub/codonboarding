@@ -4,7 +4,7 @@
   * will tell you that you switched to a new branch
 
 * `git status` will tell you what is on your local vs previous commit; tells you the difference
-  *
+  * checks for difference between the most recent changes and the repository?
 
 * `commit -a` will change everything
 
@@ -17,3 +17,4 @@
   2. `git status`
   3. `git log`
   4. `git push`
+
