@@ -1,11 +1,5 @@
 # AWS EC2
 
-Use AWS for STAR Alignments
-
-## Install Aegea
-
-`git clone https://github.com/kislyuk/aegea.git` in your command line use the git clone command to clone the repository for aegea.
-
 ## Give r/w file permissions to .pem key-pair file using chmod command
 ```
 chmod 400 /Users/lincoln.harris/Documents/20-AWS_basics/Lincolnharris-1.pem.txt
@@ -25,11 +19,17 @@ scp -i /Users/lincoln.harris/Documents/20-AWS_basics/Lincolnharris-1.pem.txt /Us
 ```
 scp -i /Users/lincoln.harris/Documents/20-AWS_basics/Lincoln.harris-1.pem -r ubuntu@ec2-34-214-88-13.us-west-2.compute.amazonaws.com://home/ubuntu/myVol/fancyPantz/run1 /Users/lincoln.harris/Desktop/
 ```
+## Install Aegea (Use AWS for STAR Alignments)
 
-#AWS S3
+git clone in your command line use the git clone command to clone the repository for aegea.
 
-##List contents of s3 directory
-`a#ws s3 ls s3://mybucket/test/`
+`https://github.com/kislyuk/aegea.git`
 
-##Copying a s3 file to local
+
+# AWS S3
+
+## List contents of s3 directory
+`aws s3 ls s3://mybucket/test/`
+
+## Copying a s3 file to local
 `aws s3 cp s3://mybucket/test.txt test2.txt`
