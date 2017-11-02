@@ -64,9 +64,14 @@ This is where we ask to push our changes up to github.Once this has happened we 
 
 6) **Return from your branch to the master** Use `git checkout master`. 
 
-You will want to return to master so that once you have merged your changes in github you can update your local version of the repository from your local master branch. 
+You will want to return to master so that once you have merged your changes in github you can update your local version of the repository from your local master branch. Once the pull request has been merged you can update these changes without re cloning the repository by running 
 
-### Merge your changes on github
-1) **Merge the changes you "pushed" back to github**-return to the github for your respoitory. You will see a pull request waiting to be merged. Follow the prompted links. 
+`git pull` from the master branch. 
+
+7) **Merge your commits to github (pull request)** Return to Github website and refresh your repository. You will see an option to select "compare and merge request". When you select this option in takes you to a new screen that allows you to write a small description of your change. Here you select the next option to continue your pull request. Once you have successfull merged your request with the master you will have the option to delete the merged branch.
+
+8) **Update your cloned repository** In your master branch on the terminal use `git pull` to upload the newest version of the repository to your local computer. 
+
+
 
 
