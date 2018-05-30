@@ -1,9 +1,9 @@
 # Github Repository
 
-##Create A New Repository:
+## Create A New Repository:
 In your github account online select the + icon in the top right of the screen and select "New Repository"
 
-####Specifications for your repository
+#### Specifications for your repository
 1) **Select "initialize with a README"**
 
 2) **Select Git ignore parameters**-this tells git to ignore certain files that are generated in the process of some of the code you may run. Ex. you may want to select Python in order to ignore small extra files that are generated in the process of running your code. 
