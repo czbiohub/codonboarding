@@ -1,7 +1,7 @@
 # Aegea
 
 ## Intro
-`aegea` is a comman line interace that provides a set of essectial commands and terminal dashboards for operators of AWS accounts. `aegea` lets you build AMIs and Docker images using the cloud-init config management package, manage config roles, launch and monitor instances and services, and manage AWS resources including ELB, RDS, and AWS Batch. It is intended to be used in conjuction with the existing functionality of the AWS CLI and boto3
+`aegea` is a comman line interface that provides a set of essential commands and terminal dashboards for operators of AWS accounts. `aegea` lets you build AMIs and Docker images using the cloud-init config management package, manage config roles, launch and monitor instances and services, and manage AWS resources including ELB, RDS, and AWS Batch. It is intended to be used in conjuction with the existing functionality of the AWS CLI and boto3
 
 More info: https://github.com/kisluk/aegea
 
