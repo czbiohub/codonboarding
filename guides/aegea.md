@@ -43,3 +43,9 @@ More info: https://github.com/kisluk/aegea
 
 `aegea terminate [hostname]`
 - Terminate the [hostname] instance that was launched
+
+
+# Trying to demux or align?
+
+## You may want to check out the utilities repo at A collection of scripts for common data management and processing tasks
+
