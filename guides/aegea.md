@@ -47,5 +47,5 @@ More info: https://github.com/kisluk/aegea
 
 # Trying to demux or align?
 
-## You may want to check out the utilities repo at A collection of scripts for common data management and processing tasks
+## You may want to check out the utilities repo at https://github.com/czbiohub/utilities
 
