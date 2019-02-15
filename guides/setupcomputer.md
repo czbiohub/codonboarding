@@ -24,3 +24,9 @@ source ~/.bash_profile
 ```
 
 This will run EVERYTHING in your `~/.bash_profile` when you open a new terminal tab or window. So to activate it, open a new tab (Command-T just like in Chrome or Safari) and close your old one.
+
+## Install iTerm2
+
+Awesome terminal replacement for Mac. Has features that make future things like `tmux` much better.
+
+- https://www.iterm2.com/
