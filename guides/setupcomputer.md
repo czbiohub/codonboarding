@@ -30,3 +30,10 @@ This will run EVERYTHING in your `~/.bash_profile` when you open a new terminal 
 Awesome terminal replacement for Mac. Has features that make future things like `tmux` much better.
 
 - https://www.iterm2.com/
+
+
+## Install MacDown
+
+Awesome editor for Markdown files (like this one!)
+
+- https://macdown.uranusjr.com/
